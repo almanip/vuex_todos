@@ -1,19 +1,21 @@
 # vuex_todos
 
-## Project setup
+通过 vue + Ant Design 完成前端界面设计
+
+## 初始化项目
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 编译并重新加载以进行开发
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 为生产而编译和简化
 ```
 npm run build
 ```
 
-### Customize configuration
+### 自定义配置
 See [Configuration Reference](https://cli.vuejs.org/config/).
